@@ -24,7 +24,7 @@ X-Auth-Token: {{accessToken}}
 
 ###
 
-#Test Secured Endpoint
+#Invalid
 
 GET http://localhost:8080/api/v1/test
 X-Auth-Token: randpomString
